@@ -1,4 +1,4 @@
-# Welcome to **Laboratory of Advanced Simulation of Turbulence** (__LAST__) !
+# Welcome to **Laboratory of Advanced Simulation of Turbulence** (*LAST*) !
 
 Go to [Song FU](https://www.hy.tsinghua.edu.cn/info/1154/1947.htm) to see Prof. Fu's Chinese personal website!
 
@@ -44,8 +44,8 @@ After returning from the study in UK in the summer of 1988, Song FU joined Tsing
 - Fellow of the International Association of Computational Mechanics, 2012
 - Vice Chairman of the Chinese Aerodynamic Society (2001-2011)
 - Chairman of the Fluid Mechanics Committee of the Chinese Society of Mechanics (2007-2011)
-- Associate Editor of __AIAA Journal__
-- Associate Editor of __The Aeronautical Journal__
-- Associate Editor-in-Chief for __Science China: Physics Mechanics & Astronomy__
-- Served, previously or presently, as the executive member or member of the editorial boards for: for of __Acta Mechanica Sinica, Journal of Computational Mechanics, Journal of Engineering Mechanics, Journal of Aerodynamics, Journal of Aerodynamics__
-- Member of the Advisory Committees：__International Council for Aeronautical Sciences (ICAS, since 2009), International Symposium of Turbulence & Shear Flow Phenomena (TSFP, since 2001), International Symposium of Turbulent Heat & Mass Transfer (THMT, since 2002), International Conference on Computational Fluid Dynamics (ICCFD, since 2005), Engineering Turbulence Modelling & Measurements (ETMM, since 1998), Asian Conference for Fluid Mechanics (ACFM, since 2008), Asia-Pacific International Symposium on Aerospace Technology (APISAT, since 2008)__
+- Associate Editor of *AIAA Journal*
+- Associate Editor of *The Aeronautical Journal*
+- Associate Editor-in-Chief for *Science China: Physics Mechanics & Astronomy*
+- Served, previously or presently, as the executive member or member of the editorial boards for: for of *Acta Mechanica Sinica, Journal of Computational Mechanics, Journal of Engineering Mechanics, Journal of Aerodynamics, Journal of Aerodynamics*
+- Member of the Advisory Committees：*International Council for Aeronautical Sciences (ICAS, since 2009), International Symposium of Turbulence & Shear Flow Phenomena (TSFP, since 2001), International Symposium of Turbulent Heat & Mass Transfer (THMT, since 2002), International Conference on Computational Fluid Dynamics (ICCFD, since 2005), Engineering Turbulence Modelling & Measurements (ETMM, since 1998), Asian Conference for Fluid Mechanics (ACFM, since 2008), Asia-Pacific International Symposium on Aerospace Technology (APISAT, since 2008)*
