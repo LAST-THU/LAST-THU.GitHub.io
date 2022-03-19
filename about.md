@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**LAST** is a laboratory which is committed to turbulence simulation. LAST is located at Department of Mechanical Engineering, Tsinghua University, China.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+For more information about Not LAST, please contact us: [last-official@163.com](last-official@163.com).
