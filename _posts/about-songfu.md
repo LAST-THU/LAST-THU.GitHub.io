@@ -1,10 +1,12 @@
 ---
 layout: post
 title: About Song FU
-tags: mathjax
+tags: Song FU
 math: true
 date: 2022-03-18 15:32 +0800
 ---
+
+Head of LAST
 
 Go to [Song FU](https://www.hy.tsinghua.edu.cn/info/1154/1947.htm) to see Prof. Fu's Chinese personal website!
 
@@ -12,11 +14,10 @@ Go to [Song FU](https://www.hy.tsinghua.edu.cn/info/1154/1947.htm) to see Prof. 
 
 ### Song FU : 
 
-- Professor of Fluid Dynamics (Tsinghua University, Beijing, China)
-- Chairman of **AFMC** (Asian Fluid Mechanics Committee)
+- Professor of Fluid Dynamics (*Tsinghua University, Beijing, China*)
+- Chairman of **AFMC** (*Asian Fluid Mechanics Committee*)
 - **AIAA** Fellow
 - **IACM** Fellow
-- Head of LAST
 
 ### Education :
 
