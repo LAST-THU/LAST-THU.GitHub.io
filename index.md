@@ -49,3 +49,36 @@ After returning from the study in UK in the summer of 1988, Song FU joined Tsing
 - Associate Editor-in-Chief for *Science China: Physics Mechanics & Astronomy*
 - Served, previously or presently, as the executive member or member of the editorial boards for: for of *Acta Mechanica Sinica, Journal of Computational Mechanics, Journal of Engineering Mechanics, Journal of Aerodynamics, Journal of Aerodynamics*
 - Member of the Advisory Committees：*International Council for Aeronautical Sciences (ICAS, since 2009), International Symposium of Turbulence & Shear Flow Phenomena (TSFP, since 2001), International Symposium of Turbulent Heat & Mass Transfer (THMT, since 2002), International Conference on Computational Fluid Dynamics (ICCFD, since 2005), Engineering Turbulence Modelling & Measurements (ETMM, since 1998), Asian Conference for Fluid Mechanics (ACFM, since 2008), Asia-Pacific International Symposium on Aerospace Technology (APISAT, since 2008)*
+
+### Current Research Interests
+1. Turbulence Modeling
+- Modeling of transition flows;
+- Modeling of turbulent flows with rapid distortion;
+- Modeling of compressible and hypersonic turbulent flows;
+2. Aerodynamics
+- Compressor aerodynamics;
+- Aircraft aerodynamics.
+
+### Some Recent Archive Journal Publications
+
+1.	Xi Y, Ren J, Fu S*. Hypersonic attachment-line instabilities with large sweep Mach numbers. Journal of Fluid Mechanics [J], 2021, 915: A44.
+2.	Ren J, Mao X*, Fu S. Image-based flow decomposition using empirical wavelet transform. Journal of Fluid Mechanics [J], 2021, 906: A22.
+3.	Xi Y, Ren J, Wang L and Fu S*. Receptivity and stability of hypersonic leading-edge sweep flows around a blunt body. Journal of Fluid Mechanics [J], 2021, 916: R2.
+4.	Chen X, Wang L, Fu S*. Secondary instability of the hypersonic high-enthalpy boundary layers with thermal–chemical non-equilibrium effects. Physics of Fluids [J], 2021, 33(3): 034132.
+5.	Chen X, Wang L, Fu S*. Parabolized stability analysis of hypersonic thermal–chemical non-equilibrium boundary-layer flows. AIAA Journal [J], 2021, 59(7): 2382-2395.
+6.	Ren J*, Fu S, Pecnik R. Linear instability of Poiseuille flows with highly non-ideal fluids. Journal of Fluid Mechanics [J], 2019, 859: 89-125.
+7.	Xu G, Chen J, Liu G, Dong S, Fu S*. The secondary instabilities of stationary cross-flow vortices in a Mach 6 swept wing flow. Journal of Fluid Mechanics [J], 2019, 873: 914-941.
+8.	Li S, Li Q*, Fu S, Xu K. A unified gas-kinetic scheme for axisymmetric flow in all Knudsen number regimes. Journal of Computational Physics [J], 2018, 366: 144-169.
+9.	Wang L, Hu R, Li L, Fu S*. Detached-eddy simulations for active flow control. AIAA Journal [J], 2018, 56(4): 1447-1462.
+10.	Xu G, Liu G, Chen J, Fu S*. Role of freestream slow acoustic waves in a hypersonic three-dimensional boundary layer. AIAA Journal [J], 2018, 56(9): 3570-3584.
+11.	Zhang C, Li Q*, Fu S, Wang Z. A third-order gas-kinetic CPR method for the Euler and Navier–Stokes equations on triangular meshes. Journal of Computational Physics [J], 2018, 363: 329-353.
+12.	Wang Z, Wang L, Fu S*. Control of stationary crossflow modes in swept Hiemenz flows with dielectric barrier discharge plasma actuators. Physics of Fluids [J], 2017, 29(9): 094105.
+13.	Ren J, Fu S*, Hanifi A. Stabilization of the hypersonic boundary layer by finite-amplitude streaks. Physics of Fluids [J], 2016, 28(2): 024110.
+14.	Zhu H, Fu S*, Shi L, Wang Z. Implicit Large-Eddy Simulation for the High-Order Flux Reconstruction Method. AIAA Journal [J], 2016, 54(9): 2721-2733.
+15.	Ren J, Fu S*. Secondary instabilities of Görtler vortices in high-speed boundary layer flows. Journal of Fluid Mechanics [J], 2015, 781: 388-421.
+16.	Fu S*, Wang L. RANS modeling of high-speed aerodynamic flow transition with consideration of stability theory. Progress in Aerospace Sciences [J], 2013, 58: 36-59.
+17.	Xiao Z, Liu J, Luo K, Huang J, Fu S*. Investigation of Flows Around a Rudimentary Landing Gear with Advanced Detached-Eddy-Simulation Approaches. AIAA Journal [J], 2013, 51(1): 107-125.
+18.	Xiao Z, Liu J, Huang J, Fu S*. Numerical Dissipation Effects on Massive Separation Around Tandem Cylinders. AIAA Journal [J], 2012, 50(5): 1119-1136.
+19.	Li Q*, Xu K*, Fu S*. A high-order gas-kinetic Navier–Stokes flow solver. Journal of Computational Physics [J], 2010, 229(19): 6715-6731.
+20.	Li Q*, Fu S. On the multidimensional gas-kinetic BGK scheme. Journal of Computational Physics [J], 2006, 220(1): 532-548.
+21.	Li Q*, Fu S, Xu K. A compressible Navier–Stokes flow solver with scalar transport. Journal of Computational Physics [J], 2005, 204(2): 692-714.
