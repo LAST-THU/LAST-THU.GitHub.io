@@ -3,30 +3,27 @@ layout: post
 title: About Song FU
 tags: Song FU
 math: true
-date: 2022-03-18 15:32 +0800
 ---
 
-Head of LAST
 
 Go to [Song FU](https://www.hy.tsinghua.edu.cn/info/1154/1947.htm) to see Prof. Fu's Chinese personal website!
 
-## About Song FU
 
-### Song FU : 
+## Song FU : 
 
 - Professor of Fluid Dynamics (*Tsinghua University, Beijing, China*)
 - Chairman of **AFMC** (*Asian Fluid Mechanics Committee*)
 - **AIAA** Fellow
 - **IACM** Fellow
 
-### Education :
+## Education :
 
 - 1978.9—1979.3：Department of Mechanical Engineering, Tsinghua University
 - 1979.7—1980.8：Chichester College of Technology, UK
 - 1980.9—1983.7：Department of Mechanical Engineering, Imperial College London (B.Sc. Honors)
 - 1983.8—1988.7：Department of Mechanical Engineering, University of Manchester (Ph.D.)
 
-### Work Experience :
+## Work Experience :
 
 After returning from the study in UK in the summer of 1988, Song FU joined Tsinghua University and has been working there ever since. The following list provides the positions that he held in chronicle order:
 
@@ -43,7 +40,7 @@ After returning from the study in UK in the summer of 1988, Song FU joined Tsing
 - 2004.05-2011.01:	Deputy Dean of the School of Aerospace Engineering
 - 2004.05-Present:		Director of the Center for Aeronautics Technology
 
-### Awards :
+## Academic-Related Activities :
 
 - Chairman of Asian Fluid Mechanics Committee (AFMC), 2019
 - Fellow of American Institute for Aeronautics and Astronautics (AIAA), 2014
@@ -56,7 +53,7 @@ After returning from the study in UK in the summer of 1988, Song FU joined Tsing
 - Served, previously or presently, as the executive member or member of the editorial boards for: for of *Acta Mechanica Sinica, Journal of Computational Mechanics, Journal of Engineering Mechanics, Journal of Aerodynamics, Journal of Aerodynamics*
 - Member of the Advisory Committees：*International Council for Aeronautical Sciences (ICAS, since 2009), International Symposium of Turbulence & Shear Flow Phenomena (TSFP, since 2001), International Symposium of Turbulent Heat & Mass Transfer (THMT, since 2002), International Conference on Computational Fluid Dynamics (ICCFD, since 2005), Engineering Turbulence Modelling & Measurements (ETMM, since 1998), Asian Conference for Fluid Mechanics (ACFM, since 2008), Asia-Pacific International Symposium on Aerospace Technology (APISAT, since 2008)*
 
-### Current Research Interests
+## Current Research Interests
 1. Turbulence Modeling
 - Modeling of transition flows;
 - Modeling of turbulent flows with rapid distortion;
@@ -65,7 +62,7 @@ After returning from the study in UK in the summer of 1988, Song FU joined Tsing
 - Compressor aerodynamics;
 - Aircraft aerodynamics.
 
-### Some Recent Archive Journal Publications
+## Some Recent Archive Journal Publications
 
 1.	Xi Y, Ren J, Fu S*. Hypersonic attachment-line instabilities with large sweep Mach numbers. Journal of Fluid Mechanics [J], 2021, 915: A44.
 2.	Ren J, Mao X*, Fu S. Image-based flow decomposition using empirical wavelet transform. Journal of Fluid Mechanics [J], 2021, 906: A22.
