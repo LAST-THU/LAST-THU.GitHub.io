@@ -2,7 +2,7 @@
 title: LAST
 description: Laboratory of Advanced Simulation of Turbulence
 url: https://last-thu.github.io
-avatar: /FUSONG.jpg
+avatar: /pics/lasticon.png
 paginate: 5
 permalink: /:categories/:title.html
 cover_image: /bg.jpeg
