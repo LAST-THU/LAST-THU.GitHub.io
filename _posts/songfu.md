@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: archive-taxonomies
 title: About Song FU
-tags: Song FU
+tags: SongFU
+type: member
 math: true
 ---
 

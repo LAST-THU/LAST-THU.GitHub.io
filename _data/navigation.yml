@@ -2,3 +2,8 @@
   url: /
 - title: About
   url: /about/
+- title: Members
+  url: /member/
+- type: Member
+  title: Member
+  url: /member/
