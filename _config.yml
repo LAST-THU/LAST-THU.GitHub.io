@@ -4,7 +4,7 @@ description: Laboratory of Advanced Simulation of Turbulence
 url: https://last-thu.github.io
 avatar: /FUSONG.jpg
 paginate: 5
-permalink: pretty
+permalink: /:title.html
 cover_image: /bg.jpeg
 
 # Gems

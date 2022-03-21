@@ -1,8 +1,8 @@
 ---
-layout: archive-taxonomies
+layout: post
 title: About Song FU
 tags: SongFU
-type: member
+categories: Member Intro
 math: true
 ---
 
